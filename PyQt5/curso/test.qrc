@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="game">
+    <file>o.png</file>
+    <file>x.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon1.jpg</file>
+  </qresource>
+</RCC>
